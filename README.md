@@ -26,3 +26,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # card_vue
 # card_vue
 # card_vue
+# card_vue
